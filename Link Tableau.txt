@@ -1,0 +1,3 @@
+Dashboard : https://public.tableau.com/app/profile/kenneth.vincentius/viz/DataVisualizationFactOrders/Dashboard1?publish=yes
+
+Story Telling : https://public.tableau.com/app/profile/kenneth.vincentius/viz/DataVisualizationFactOrders/Story1?publish=yes
